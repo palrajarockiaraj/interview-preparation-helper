@@ -1,0 +1,67 @@
+1. Given an array of int, print each number against how much time they occur in the array
+ example: [4,6,5,3,2,7,6,5] 
+ Answer : 4-> 1, 6->2, 5->2, 3->1, 2->1, 7->1
+ 
+2. A string for example : AAAAABBBCCCCDD has to be converted into A5B3C4D2
+
+3. Find next permutation of the string.
+
+4. Given list of strings find the string which occur the most.
+
+5. Given a list of numbers find the pairs with sum K.
+
+6. Given a list of numbers, move all non zero numbers to right and all zeros to left.
+
+7. Find kth smallest number in a BST.
+
+8. Find and remove the given character from a text file.
+
+9. Find whether a given number is a exact power of 2 or not.
+
+10. Construct BST from sorted array
+
+11. Design a stack that supports additional operation Min() which should return minimum element from the Stack.
+
+12. Find the number of islands in MxN matrix. A group of connected 1s forms an island.
+
+13. Return a random value from array with probability proportional to its value.
+
+14. Given a string find the complement of the string and then change each character of the string based on some condition.
+
+  eg:  You have been give a string "HELLO", find complement of it so it will be "OLLEH" the condition will be such that replace "O" with "H" and "L" with "O" and print the output.
+
+15. Given an array of String find the first repeating String.
+
+16. Given an array of numbers modify the array element in such a way that not a single element should be duplicate of each other and then sum up all the element of array and you have to modify in such a way that sum of the element should be possible minimum.
+
+17. Check whether the given linkedlist is a palindrome or not
+
+18. Given a string, make a palindrome out of it. If Many palindroms can be formed, return any one.
+
+19. Given a perfect square, find the square root of it.
+
+20. Find nth node from the end of a linked list.
+
+21. Given a list of unbalanced parantheses, make it balanced. But you can only append or prepend parantheses, no other manipulation is allowed.
+
+22. Check for Balanced parentheses in an expression.
+
+23. Find the first non-repeated character in a given string.
+
+24. Find the maximum triplet product in an array.
+
+25. Given an array, replace the duplicate elements by incrementing them until all the array elements are unique. Calculate the minimum sum of the array after this.
+
+26. Given a word, we have to find that the given word is an anagram or not
+
+27. Spiral matrix
+  [
+    [1, 2, 3, 4],
+    [5, 6, 7, 8],
+    [9, 10, 11, 12],
+    [13, 14, 15, 16]
+  ]
+
+  Expected output : [1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10]
+
+
