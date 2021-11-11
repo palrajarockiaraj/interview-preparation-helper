@@ -64,4 +64,10 @@
 
   Expected output : [1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10]
 
+28. FizzBuzz
+  Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+29. Find the fibonacci series for the given number.
+
+30. String Reversal
 

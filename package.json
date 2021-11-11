@@ -1,0 +1,28 @@
+{
+  "name": "interview-preparation-helper",
+  "version": "1.0.0",
+  "description": "Solutions to the list of programming interview questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-arockiyam/interview-preparation-helper.git"
+  },
+  "keywords": [
+    "interview",
+    "problem",
+    "solving",
+    "algorithms"
+  ],
+  "author": "Palraj Arockiaraj <paul.arockiyam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paul-arockiyam/interview-preparation-helper/issues"
+  },
+  "homepage": "https://github.com/paul-arockiyam/interview-preparation-helper#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
