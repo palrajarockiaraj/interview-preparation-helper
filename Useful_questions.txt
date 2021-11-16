@@ -73,3 +73,31 @@
 30. String Reversal
   Example: abcd => dcba, apple => elppa
 
+31. Sort an array and remove duplicates
+
+32. Code a function that returns true if a given string was a valid email address, false otherwise
+
+33. Factorial string
+
+34. Write and execute a program to find second largest digit in a integer array
+
+35. Various Permutations of a string
+
+36. Finding the minimum of a list of numbers.
+
+37. Write a merge sort
+
+38. binary search, check if 2 strings are written using the same characters
+
+39. Distance between 2 points on a graph
+
+40. Write a code that returns the number of intersections between two circles.
+
+41. In an array of elements occurring twice consecutively, find element occurring only once. For e.g in an array 4,4,2,2,3,5,5 output must be 3
+
+42. For a rectangular paper with given length and breadth, write a program to find the minimum number of squares that can be cut so that entire paper is consumed.
+
+43. Finding substring
+
+44. Find all couples that sums to a number in an integer array
+

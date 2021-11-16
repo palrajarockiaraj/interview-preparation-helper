@@ -42,7 +42,7 @@ function reverse4(str) {
 
 // Solution 5
 function reverse5(str) {
-  return str.split("").reduce((previous, current) => current + previous, "");
+  return str.split("").reduce((rev, char) => char + rev, "");
 }
 
 module.exports = { reverse1, reverse2, reverse3, reverse4, reverse5 };
